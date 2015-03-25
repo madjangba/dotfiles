@@ -1,0 +1,9 @@
+[push]
+	default = simple
+[user]
+	name = Michelle Adjangba
+	email = amiche@seas.upenn.edu
+[core]
+	editor = vim
+[alias]
+	ci = commit
